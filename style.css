@@ -13,9 +13,9 @@ body{
 }
 
 #home{
-    width: 100%;
-    height:1000px;
-    background-image: url();
+    width: 700%;
+    height:750px;
+    background-image: url("../images/Poorvitha.jpg");
     background-size: 100% 100%;
     background-position: center;
     background-attachment:scroll;
@@ -70,9 +70,9 @@ body{
 }
 
 #about{
-    width: 100%;
-    height:1000px;
-    background-image: url();
+    width: 70%;
+    height:750px;
+    background-image: url("../images/Poorvitha.jpg");
     background-position: center;
     background-attachment:scroll;
     background-repeat:no-repeat;
